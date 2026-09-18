@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { getRecommendations } from './lib/api'
+import RecommendationMap from './components/RecommendationMap'
 
 function App() {
 
@@ -8,15 +9,28 @@ function App() {
   const [priorityProfile, setPriorityProfile] = useState('balanced')
   const [result, setResult] = useState(null)
   const [isLoading, setIsLoading] = useState(false)
-
-  async function handleSubmit(event) {
-    event.preventDefault()
+  
+  const handleSubmit = async (event) => {
+  event.preventDefault()
     setIsLoading(true)
-    const data = await getRecommendations({ mobileUnits, maxTravelTime, priorityProfile })
-    setResult(data)
-    setIsLoading(false)
-  }
+    setResult(null)
 
+    try {
+      const data = await getRecommendations({
+        mobileUnits,
+        maxTravelTime,
+        priorityProfile,
+      })
+
+      console.log('Backend response:', data)
+
+      setResult(data)
+    } catch (error) {
+      console.error('Failed to get recommendations:', error)
+    } finally {
+      setIsLoading(false)
+    }
+  }
   const sectionHeadingClass = "font-['Zilla_Slab'] text-center uppercase text-sm font-bold tracking-wide text-[#0F5C57] mb-6"
 
   return (
@@ -88,6 +102,22 @@ function App() {
               {isLoading ? "Running..." : "Calculate best deployment location"}
             </button>
           </form>
+          <RecommendationMap
+            recommendations= {[
+    {
+      name: 'Polokwane Veterinary Facility',
+      latitude: -23.9045,
+      longitude: 29.4689,
+      averageTravelTime: 35
+    },
+    {
+      name: 'Tzaneen Veterinary Facility',
+      latitude: -23.8333,
+      longitude: 30.1636,
+      averageTravelTime: 50
+    }
+  ]} 
+          />
         </section>
 
         <section aria-labelledby="map-heading" className="bg-[#F3FAF9] border border-[#CDE7E4] rounded-lg p-6">
