@@ -16,10 +16,6 @@ public class LivestockIndicator {
 
     private String species;
     private double value;
-    private String measureType;
-    private String datasetScope;
-    private String source;
-    private int sourceYear;
 
     @ManyToOne
     @JoinColumn(name = "municipality_id")
@@ -34,18 +30,6 @@ public class LivestockIndicator {
 
     public double getValue() { return value; }
     public void setValue(double value) { this.value = value; }
-
-    public String getMeasureType() { return measureType; }
-    public void setMeasureType(String measureType) { this.measureType = measureType; }
-
-    public String getDatasetScope() { return datasetScope; }
-    public void setDatasetScope(String datasetScope) { this.datasetScope = datasetScope; }
-
-    public String getSource() { return source; }
-    public void setSource(String source) { this.source = source; }
-
-    public int getSourceYear() { return sourceYear; }
-    public void setSourceYear(int sourceYear) { this.sourceYear = sourceYear; }
 
     public Municipality getMunicipality() { return municipality; }
     public void setMunicipality(Municipality municipality) { this.municipality = municipality; }

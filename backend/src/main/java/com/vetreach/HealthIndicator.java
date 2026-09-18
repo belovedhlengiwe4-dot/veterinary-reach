@@ -6,7 +6,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.ManyToOne;
 import jakarta.persistence.JoinColumn;
-import java.time.LocalDate;
 
 @Entity
 public class HealthIndicator {
@@ -18,8 +17,6 @@ public class HealthIndicator {
     private String disease;
     private String indicatorType;
     private double indicatorValue;
-    private LocalDate eventDate;
-    private String geographicLevel;
 
     @ManyToOne
     @JoinColumn(name = "municipality_id")
@@ -37,12 +34,6 @@ public class HealthIndicator {
 
     public double getIndicatorValue() { return indicatorValue; }
     public void setIndicatorValue(double indicatorValue) { this.indicatorValue = indicatorValue; }
-
-    public LocalDate getEventDate() { return eventDate; }
-    public void setEventDate(LocalDate eventDate) { this.eventDate = eventDate; }
-
-    public String getGeographicLevel() { return geographicLevel; }
-    public void setGeographicLevel(String geographicLevel) { this.geographicLevel = geographicLevel; }
 
     public Municipality getMunicipality() { return municipality; }
     public void setMunicipality(Municipality municipality) { this.municipality = municipality; }
