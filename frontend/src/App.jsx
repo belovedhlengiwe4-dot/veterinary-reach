@@ -103,20 +103,7 @@ function App() {
             </button>
           </form>
           <RecommendationMap
-            recommendations= {[
-    {
-      name: 'Polokwane Veterinary Facility',
-      latitude: -23.9045,
-      longitude: 29.4689,
-      averageTravelTime: 35
-    },
-    {
-      name: 'Tzaneen Veterinary Facility',
-      latitude: -23.8333,
-      longitude: 30.1636,
-      averageTravelTime: 50
-    }
-  ]} 
+            recommendations= {result ? result.recommendations : []}
           />
         </section>
 
