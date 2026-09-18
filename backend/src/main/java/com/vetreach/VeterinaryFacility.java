@@ -14,7 +14,6 @@ public class VeterinaryFacility {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long facilityId;
 
-    private String savcNumber;
     private String name;
     private String facilityType;
     private double latitude;
@@ -29,9 +28,6 @@ public class VeterinaryFacility {
     // Getters and setters
     public Long getFacilityId() { return facilityId; }
     public void setFacilityId(Long facilityId) { this.facilityId = facilityId; }
-
-    public String getSavcNumber() { return savcNumber; }
-    public void setSavcNumber(String savcNumber) { this.savcNumber = savcNumber; }
 
     public String getName() { return name; }
     public void setName(String name) { this.name = name; }
