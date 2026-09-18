@@ -1,0 +1,58 @@
+﻿disease;indicator_type;indicator_value;municipality_id
+FMD;synthetic_outbreak_reports;4;1
+Lumpy Skin Disease;synthetic_outbreak_reports;2;1
+Brucellosis;synthetic_outbreak_reports;2;1
+FMD;synthetic_outbreak_reports;2;2
+Brucellosis;synthetic_outbreak_reports;3;2
+Lumpy Skin Disease;synthetic_outbreak_reports;2;2
+FMD;synthetic_outbreak_reports;3;3
+Brucellosis;synthetic_outbreak_reports;2;3
+Lumpy Skin Disease;synthetic_outbreak_reports;3;3
+HPAI H7;synthetic_outbreak_reports;1;3
+FMD;synthetic_outbreak_reports;2;4
+Lumpy Skin Disease;synthetic_outbreak_reports;2;4
+Rabies;synthetic_outbreak_reports;1;4
+FMD;synthetic_outbreak_reports;3;5
+Brucellosis;synthetic_outbreak_reports;3;5
+Lumpy Skin Disease;synthetic_outbreak_reports;2;5
+FMD;synthetic_outbreak_reports;2;6
+Brucellosis;synthetic_outbreak_reports;3;6
+Lumpy Skin Disease;synthetic_outbreak_reports;2;6
+FMD;synthetic_outbreak_reports;1;7
+Rabies;synthetic_outbreak_reports;2;7
+Brucellosis;synthetic_outbreak_reports;1;7
+FMD;synthetic_outbreak_reports;4;8
+Lumpy Skin Disease;synthetic_outbreak_reports;3;8
+Brucellosis;synthetic_outbreak_reports;2;8
+FMD;synthetic_outbreak_reports;3;9
+Lumpy Skin Disease;synthetic_outbreak_reports;3;9
+HPAI H7;synthetic_outbreak_reports;2;9
+Brucellosis;synthetic_outbreak_reports;2;9
+FMD;synthetic_outbreak_reports;4;10
+Brucellosis;synthetic_outbreak_reports;3;10
+Lumpy Skin Disease;synthetic_outbreak_reports;2;10
+HPAI H7;synthetic_outbreak_reports;1;10
+FMD;synthetic_outbreak_reports;3;11
+Lumpy Skin Disease;synthetic_outbreak_reports;3;11
+Brucellosis;synthetic_outbreak_reports;2;11
+FMD;synthetic_outbreak_reports;2;12
+Brucellosis;synthetic_outbreak_reports;2;12
+Lumpy Skin Disease;synthetic_outbreak_reports;2;12
+HPAI H7;synthetic_outbreak_reports;1;12
+FMD;synthetic_outbreak_reports;2;13
+Brucellosis;synthetic_outbreak_reports;3;13
+Lumpy Skin Disease;synthetic_outbreak_reports;2;13
+FMD;synthetic_outbreak_reports;3;14
+Brucellosis;synthetic_outbreak_reports;3;14
+Lumpy Skin Disease;synthetic_outbreak_reports;2;14
+Rabies;synthetic_outbreak_reports;1;14
+FMD;synthetic_outbreak_reports;3;15
+Brucellosis;synthetic_outbreak_reports;2;15
+Lumpy Skin Disease;synthetic_outbreak_reports;2;15
+FMD;synthetic_outbreak_reports;4;16
+Brucellosis;synthetic_outbreak_reports;3;16
+Rabies;synthetic_outbreak_reports;2;16
+Lumpy Skin Disease;synthetic_outbreak_reports;2;16
+FMD;synthetic_outbreak_reports;3;17
+Rabies;synthetic_outbreak_reports;3;17
+Brucellosis;synthetic_outbreak_reports;1;17

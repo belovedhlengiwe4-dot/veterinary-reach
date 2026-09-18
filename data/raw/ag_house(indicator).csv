@@ -1,0 +1,199 @@
+﻿geography_level,geography_name,year,indicator_group,indicator,value,unit,source_table,source,is_pilot_region
+province,Western Cape,2011,agricultural_households,agricultural_households,84567,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_households,agricultural_households,54644,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2011,agricultural_households,agricultural_households,596570,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_households,agricultural_households,481724,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2011,agricultural_households,agricultural_households,55151,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_households,agricultural_households,33650,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2011,agricultural_households,agricultural_households,201284,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_households,agricultural_households,135762,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2011,agricultural_households,agricultural_households,716994,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_households,agricultural_households,549268,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2011,agricultural_households,agricultural_households,214045,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_households,agricultural_households,167578,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2011,agricultural_households,agricultural_households,279095,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_households,agricultural_households,264554,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2011,agricultural_households,agricultural_households,263389,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_households,agricultural_households,256117,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Limpopo,2011,agricultural_households,agricultural_households,468494,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_households,agricultural_households,520133,households,9.1,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Western Cape,2022,agricultural_activity,livestock_and_poultry_production,15313,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity,grains_food_crops_and_industrial_crops,5194,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity,fruit_or_vegetable_production,30137,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity,crops_combined_with_farming_of_animals,2093,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity,other_agricultural_activity,1907,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity,livestock_and_poultry_production,247902,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity,grains_food_crops_and_industrial_crops,89962,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity,fruit_or_vegetable_production,72569,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity,crops_combined_with_farming_of_animals,70417,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity,other_agricultural_activity,873,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity,livestock_and_poultry_production,24607,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity,grains_food_crops_and_industrial_crops,1877,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity,fruit_or_vegetable_production,6250,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity,crops_combined_with_farming_of_animals,689,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity,other_agricultural_activity,227,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity,livestock_and_poultry_production,37939,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity,grains_food_crops_and_industrial_crops,20942,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity,fruit_or_vegetable_production,72803,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity,crops_combined_with_farming_of_animals,3699,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity,other_agricultural_activity,380,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity,livestock_and_poultry_production,247043,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity,grains_food_crops_and_industrial_crops,126727,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity,fruit_or_vegetable_production,117789,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity,crops_combined_with_farming_of_animals,55514,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity,other_agricultural_activity,2195,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity,livestock_and_poultry_production,106649,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity,grains_food_crops_and_industrial_crops,17325,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity,fruit_or_vegetable_production,38613,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity,crops_combined_with_farming_of_animals,4575,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity,other_agricultural_activity,416,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity,livestock_and_poultry_production,27207,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity,grains_food_crops_and_industrial_crops,51187,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity,fruit_or_vegetable_production,180233,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity,crops_combined_with_farming_of_animals,3464,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity,other_agricultural_activity,2463,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity,livestock_and_poultry_production,87732,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity,grains_food_crops_and_industrial_crops,86419,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity,fruit_or_vegetable_production,66296,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity,crops_combined_with_farming_of_animals,14734,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity,other_agricultural_activity,936,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Limpopo,2022,agricultural_activity,livestock_and_poultry_production,164976,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity,grains_food_crops_and_industrial_crops,250463,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity,fruit_or_vegetable_production,76924,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity,crops_combined_with_farming_of_animals,26483,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity,other_agricultural_activity,1287,households,9.3,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Western Cape,2022,agricultural_activity_place,backyard,34880,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_place,farm_land,14579,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_place,communal_land,1528,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_place,other,3637,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_place,total,54624,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_place,backyard,422542,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_place,farm_land,20603,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_place,communal_land,26328,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_place,other,12085,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_place,total,481558,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_place,backyard,25657,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_place,farm_land,4910,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_place,communal_land,2296,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_place,other,770,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_place,total,33633,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_place,backyard,119389,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_place,farm_land,10070,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_place,communal_land,4228,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_place,other,2061,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_place,total,135748,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_place,backyard,493402,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_place,farm_land,21195,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_place,communal_land,21181,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_place,other,13370,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_place,total,549148,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_place,backyard,145700,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_place,farm_land,11984,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_place,communal_land,5610,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_place,other,4239,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_place,total,167533,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_place,backyard,238999,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_place,farm_land,16364,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_place,communal_land,4432,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_place,other,4686,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_place,total,264481,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_place,backyard,235486,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_place,farm_land,11498,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_place,communal_land,5502,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_place,other,3593,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_place,total,256079,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Limpopo,2022,agricultural_activity_place,backyard,480680,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_place,farm_land,19902,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_place,communal_land,12907,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_place,other,6567,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_place,total,520056,households,9.5,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Western Cape,2022,agricultural_activity_purpose,only_for_sale,11972,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,7432,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,3884,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_purpose,only_for_own_consumption,31352,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,agricultural_activity_purpose,total,54640,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_purpose,only_for_sale,17067,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,37574,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,49785,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_purpose,only_for_own_consumption,377247,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,agricultural_activity_purpose,total,481673,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_purpose,only_for_sale,2886,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,5101,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,4131,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_purpose,only_for_own_consumption,21521,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,agricultural_activity_purpose,total,33639,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_purpose,only_for_sale,7817,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,10509,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,8387,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_purpose,only_for_own_consumption,109035,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,agricultural_activity_purpose,total,135748,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_purpose,only_for_sale,17171,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,32485,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,45053,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_purpose,only_for_own_consumption,454524,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,agricultural_activity_purpose,total,549233,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_purpose,only_for_sale,8725,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,16687,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,16742,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_purpose,only_for_own_consumption,125412,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,agricultural_activity_purpose,total,167566,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_purpose,only_for_sale,11391,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,19278,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,13641,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_purpose,only_for_own_consumption,220210,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,agricultural_activity_purpose,total,264520,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_purpose,only_for_sale,9637,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,16015,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,15552,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_purpose,only_for_own_consumption,214901,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,agricultural_activity_purpose,total,256105,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Limpopo,2022,agricultural_activity_purpose,only_for_sale,20446,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_purpose,mainly_for_sale_with_some_own_consumption,32828,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_purpose,mainly_for_own_consumption_with_some_sales,32196,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_purpose,only_for_own_consumption,434623,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,agricultural_activity_purpose,total,520093,households,9.7,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Western Cape,2022,livestock_population,cattle,672257,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,livestock_population,sheep,2311221,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,livestock_population,goats,213404,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,livestock_population,pigs,203457,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Western Cape,2022,livestock_population,chickens,2988688,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,livestock_population,cattle,3913602,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,livestock_population,sheep,10237266,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,livestock_population,goats,2415292,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,livestock_population,pigs,484368,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Eastern Cape,2022,livestock_population,chickens,6401159,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,livestock_population,cattle,241906,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,livestock_population,sheep,1222727,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,livestock_population,goats,287359,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,livestock_population,pigs,31924,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Northern Cape,2022,livestock_population,chickens,488011,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,livestock_population,cattle,1011757,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,livestock_population,sheep,1440964,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,livestock_population,goats,348912,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,livestock_population,pigs,179827,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Free State,2022,livestock_population,chickens,1888054,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,livestock_population,cattle,2604077,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,livestock_population,sheep,577895,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,livestock_population,goats,1881318,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,livestock_population,pigs,209657,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,KwaZulu-Natal,2022,livestock_population,chickens,7767408,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,livestock_population,cattle,1141010,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,livestock_population,sheep,550344,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,livestock_population,goats,451707,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,livestock_population,pigs,141949,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,North West,2022,livestock_population,chickens,5591672,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,livestock_population,cattle,483591,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,livestock_population,sheep,291271,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,livestock_population,goats,171027,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,livestock_population,pigs,296701,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Gauteng,2022,livestock_population,chickens,5211709,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,livestock_population,cattle,1105270,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,livestock_population,sheep,436112,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,livestock_population,goats,308045,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,livestock_population,pigs,182726,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Mpumalanga,2022,livestock_population,chickens,3142860,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",False
+province,Limpopo,2022,livestock_population,cattle,1158976,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,livestock_population,sheep,592758,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,livestock_population,goats,862580,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,livestock_population,pigs,262530,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True
+province,Limpopo,2022,livestock_population,chickens,4752754,animals,9.9,"Statistics South Africa, Census 2022 Statistical Release (P0301.4)",True

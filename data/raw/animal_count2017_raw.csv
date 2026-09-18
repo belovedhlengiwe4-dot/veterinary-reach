@@ -1,0 +1,52 @@
+municipality_name,species,value,measure_type,dataset_scope,source,source_year
+Blouberg,cattle,4664,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Molemole,cattle,13808,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Polokwane (incl. Lepele-Nkumpi),cattle,32353,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Ba-Phalaborwa,cattle,4613,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Greater Letaba (incl. Giyani),cattle,4832,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Greater Tzaneen,cattle,2857,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Maruleng,cattle,463,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Elias Motsoaledi,cattle,10629,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Ephraim Mogale,cattle,991,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Greater Tubatse/Fetakgomo,cattle,791,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Makhado (incl. Collins Chabane and Thulamela),cattle,18179,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Musina,cattle,528,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Bela-Bela,cattle,9761,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Lephalale,cattle,10329,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Modimolle/Mookgophong,cattle,39938,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Mogalakwena,cattle,6800,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Thabazimbi,cattle,8815,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Blouberg,sheep,655,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Molemole,sheep,182,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Polokwane (incl. Lepele-Nkumpi),sheep,902,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Greater Tzaneen,sheep,422,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Maruleng,sheep,3100,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Elias Motsoaledi,sheep,1172,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Ephraim Mogale,sheep,212,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Makhado (incl. Collins Chabane and Thulamela),sheep,22,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Musina,sheep,106,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Bela-Bela,sheep,1486,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Lephalale,sheep,514,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Modimolle/Mookgophong,sheep,2045,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Mogalakwena,sheep,1861,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Thabazimbi,sheep,761,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Molemole,goat,125,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Polokwane (incl. Lepele-Nkumpi),goat,14,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Greater Tzaneen,goat,144,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Maruleng,goat,57,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Elias Motsoaledi,goat,50,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Ephraim Mogale,goat,206,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Makhado (incl. Collins Chabane and Thulamela),goat,2315,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Musina,goat,415,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Bela-Bela,goat,282,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Lephalale,goat,243,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Modimolle/Mookgophong,goat,1295,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Mogalakwena,goat,75,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Thabazimbi,goat,229,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Molemole,pig,15,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Polokwane (incl. Lepele-Nkumpi),pig,24920,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Musina,pig,352,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Bela-Bela,pig,114243,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Modimolle/Mookgophong,pig,53662,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Mogalakwena,pig,4776,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
+Thabazimbi,pig,28,animal_count,commercial,"Statistics South Africa - Census of Commercial Agriculture 2017, Limpopo (Report No. 11-02-10)",2018
