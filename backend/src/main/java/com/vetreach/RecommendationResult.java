@@ -1,23 +1,58 @@
 package com.vetreach;
 
 public class RecommendationResult {
+
     private String location;
+    private double latitude;
+    private double longitude;
     private String reason;
     private double animalsReached;
-    private int farmersReached;
-    private double travelTimeMin;
+    private double travelTime;
+    private String diseaseRisk;
 
-    public RecommendationResult(String location, String reason, double animalsReached, int farmersReached, double travelTimeMin) {
+    public RecommendationResult(
+            String location,
+            double latitude,
+            double longitude,
+            String reason,
+            double animalsReached,
+            double travelTime,
+            String diseaseRisk) {
+
         this.location = location;
+        this.latitude = latitude;
+        this.longitude = longitude;
         this.reason = reason;
         this.animalsReached = animalsReached;
-        this.farmersReached = farmersReached;
-        this.travelTimeMin = travelTimeMin;
+        this.travelTime = travelTime;
+        this.diseaseRisk = diseaseRisk;
     }
 
-    public String getLocation() { return location; }
-    public String getReason() { return reason; }
-    public double getAnimalsReached() { return animalsReached; }
-    public int getFarmersReached() { return farmersReached; }
-    public double getTravelTimeMin() { return travelTimeMin; }
+    public String getLocation() {
+        return location;
+    }
+
+    public double getLatitude() {
+        return latitude;
+    }
+
+    public double getLongitude() {
+        return longitude;
+    }
+
+    public String getReason() {
+        return reason;
+    }
+
+    public double getAnimalsReached() {
+        return animalsReached;
+    }
+
+    public double getTravelTime() {
+        return travelTime;
+    }
+
+    public String getDiseaseRisk() {
+        return diseaseRisk;
+    }
 }

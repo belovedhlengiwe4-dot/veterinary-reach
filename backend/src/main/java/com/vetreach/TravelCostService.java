@@ -35,8 +35,7 @@ public class TravelCostService {
                 cost.setFacility(f);
                 cost.setDistanceKm(distance);
                 cost.setTravelTimeMin(time);
-                cost.setRoutingMethod("straight_line_estimate");
-
+             
                 travelCostRepository.save(cost);
             }
         }
