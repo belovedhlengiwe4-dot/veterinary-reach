@@ -106,16 +106,18 @@ function App() {
 
         <section aria-labelledby="map-heading" className="bg-[#F3FAF9] border border-[#CDE7E4] rounded-lg p-6">
           <h2 id="map-heading" className={sectionHeadingClass}>Deployment map</h2>
-          <div className="h-64 bg-[#CDE7E4] rounded flex items-center justify-center text-[#5B7E7A] text-sm">
-              <RecommendationMap
-            recommendations={result ? result.recommendations : []}
-          />
-          </div>
+           <RecommendationMap
+              recommendations={result ? result.recommendations : []}
+            />
           <div className="mt-3 flex items-center justify-center gap-6 text-xs text-[#5B7E7A]">
-            <span><span className="text-[#0F5C57]">●</span> Vet facility</span>
-            <span><span className="text-[#FF6B5E]">★</span> Recommended deployment</span>
-          </div>
-        </section>
+     <span>
+       <span className="text-[#0F5C57]">●</span> Vet facility
+      </span>
+    <span>
+      <span className="text-[#FF6B5E]">★</span> Recommended deployment
+    </span>
+    </div>
+  </section>
 
         <section aria-labelledby="results-heading" className="bg-[#F3FAF9] border border-[#CDE7E4] rounded-lg p-6">
           <h2 id="results-heading" className={sectionHeadingClass}>Recommended deployment</h2>

@@ -6,7 +6,7 @@ function RecommendationMap({ recommendations }) {
   const limpopoCenter = [-23.4013, 29.4179]
 
   return (
-    <div className="w-full h-[500px] rounded-xl overflow-hidden">
+    <div className="w-full h-[300px] rounded-xl overflow-hidden">
       <MapContainer
         center={limpopoCenter}
         zoom={7}
