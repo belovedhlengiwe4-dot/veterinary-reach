@@ -5,7 +5,7 @@ import RecommendationMap from './components/RecommendationMap'
 function App() {
 
   const [mobileUnits, setMobileUnits] = useState(2)
-  const [maxTravelTime, setMaxTravelTime] = useState(45)
+  const [maxTravelTime, setMaxTravelTime] = useState(60)
   const [priorityProfile, setPriorityProfile] = useState('balanced')
   const [result, setResult] = useState(null)
   const [isLoading, setIsLoading] = useState(false)
@@ -102,28 +102,14 @@ function App() {
               {isLoading ? "Running..." : "Calculate best deployment location"}
             </button>
           </form>
-          <RecommendationMap
-            recommendations= {[
-    {
-      name: 'Polokwane Veterinary Facility',
-      latitude: -23.9045,
-      longitude: 29.4689,
-      averageTravelTime: 35
-    },
-    {
-      name: 'Tzaneen Veterinary Facility',
-      latitude: -23.8333,
-      longitude: 30.1636,
-      averageTravelTime: 50
-    }
-  ]} 
-          />
         </section>
 
         <section aria-labelledby="map-heading" className="bg-[#F3FAF9] border border-[#CDE7E4] rounded-lg p-6">
           <h2 id="map-heading" className={sectionHeadingClass}>Deployment map</h2>
           <div className="h-64 bg-[#CDE7E4] rounded flex items-center justify-center text-[#5B7E7A] text-sm">
-            Map will render here
+              <RecommendationMap
+            recommendations={result ? result.recommendations : []}
+          />
           </div>
           <div className="mt-3 flex items-center justify-center gap-6 text-xs text-[#5B7E7A]">
             <span><span className="text-[#0F5C57]">●</span> Vet facility</span>
@@ -147,7 +133,7 @@ function App() {
                   <p className="font-['Zilla_Slab'] font-bold text-[#0F5C57]">#{index + 1} {recommendation.location}</p>
                   <p className="italic text-[#FF6B5E] mt-1">{recommendation.reason}</p>
                   <p className="text-sm text-[#5B7E7A] mt-2">
-                    {`${recommendation.animalsReached} animals · ${recommendation.farmersReached} farmers · ${recommendation.travelTime} min · ${recommendation.diseaseRisk} risk`}
+                    {` ${Math.round(recommendation.travelTime)} min · ${recommendation.diseaseRisk} risk`}
                   </p>
                 </div>
               ))}
@@ -169,7 +155,7 @@ function App() {
                 </p>
               </div>
 
-              <div className="grid grid-cols-4 gap-3">
+              <div className="grid grid-cols-3 gap-3">
                 <div className="border border-[#CDE7E4] rounded bg-white p-3 text-center">
                   <p className="font-bold text-lg text-[#0F5C57]">{result.comparison.vetreach.coverage}%</p>
                   <p className="text-xs text-[#FF6B5E]">vs {result.comparison.baseline.coverage}%</p>
@@ -180,11 +166,7 @@ function App() {
                   <p className="text-xs text-[#FF6B5E]">vs {result.comparison.baseline.animalsReached}</p>
                   <p className="text-[10px] uppercase tracking-wide text-[#5B7E7A]">Animals</p>
                 </div>
-                <div className="border border-[#CDE7E4] rounded bg-white p-3 text-center">
-                  <p className="font-bold text-lg text-[#0F5C57]">{result.comparison.vetreach.farmersReached}</p>
-                  <p className="text-xs text-[#FF6B5E]">vs {result.comparison.baseline.farmersReached}</p>
-                  <p className="text-[10px] uppercase tracking-wide text-[#5B7E7A]">Farmers</p>
-                </div>
+                
                 <div className="border border-[#CDE7E4] rounded bg-white p-3 text-center">
                   <p className="font-bold text-lg text-[#0F5C57]">{result.comparison.vetreach.travelBurden}</p>
                   <p className="text-xs text-[#FF6B5E]">vs {result.comparison.baseline.travelBurden}</p>

@@ -1,5 +1,6 @@
-import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css'
+import { MapContainer, TileLayer, Marker, Popup } from 'react-leaflet'
+import MarkerClusterGroup from 'react-leaflet-cluster'
 
 function RecommendationMap({ recommendations }) {
   const limpopoCenter = [-23.4013, 29.4179]
@@ -23,9 +24,25 @@ function RecommendationMap({ recommendations }) {
             position={[facility.latitude, facility.longitude]}
           >
             <Popup>
-              <strong>{facility.name}</strong>
-              <br />
-              Travel time: {facility.averageTravelTime?.toFixed(1)} minutes
+              <div className="space-y-1">
+                <strong>{facility.location}</strong>
+
+                <div>
+                  <strong>Reason:</strong> {facility.reason}
+                </div>
+
+                <div>
+                  <strong>Animals reached:</strong> {facility.animalsReached}
+                </div>
+
+                <div>
+                  <strong>Travel time:</strong> {Math.round(facility.travelTime)} minutes
+                </div>
+
+                <div>
+                  <strong>Disease risk:</strong> {facility.diseaseRisk}
+                </div>
+              </div>
             </Popup>
           </Marker>
         ))}
